@@ -1,0 +1,12 @@
+¿Cómo es que se instalan paquetes con yarn?
+    yarn add [paquete]
+    Donde [paquete] es el nombre del paquete que deseas instalar. También puedes
+    especificar una versión específica o un rango de versiones si lo deseas.
+
+¿Cómo es que se borran paquetes con yarn?  
+    yarn remove [paquete]
+    Donde [paquete] es el nombre del paquete que deseas eliminar.
+
+¿Hay algún equivalente en yarn que haga lo mismo que npm init?
+    Al igual que en npm se ejecuta con el mismo coando:
+    yarn init

@@ -1,0 +1,8 @@
+
+El comando git init en un proyecto vacío se utiliza para inicializar un nuevo repositorio Git en 
+ese directorio. Cuando ejecutas git init en un directorio vacío, crea un nuevo repositorio Git en ese directorio.
+
+Esto es útil cuando estás comenzando un nuevo proyecto y deseas utilizar Git para controlar las versiones 
+de tu código y realizar un seguimiento de los cambios a lo largo del tiempo. Después de ejecutar git init, 
+puedes comenzar a agregar archivos al repositorio, realizar confirmaciones (commits) para registrar cambios y 
+aprovechar todas las funcionalidades que Git ofrece para la gestión de versiones.
